@@ -7,7 +7,7 @@ module.exports = {
   plugins: [{
     resolve: 'gatsby-plugin-google-analytics',
     options: {
-      "trackingId": ""
+      "trackingId": "12343253412412"
     }
   }, "gatsby-plugin-mdx", "gatsby-transformer-remark", {
     resolve: 'gatsby-source-filesystem',
