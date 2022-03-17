@@ -10,9 +10,9 @@ Hello and welcome to Complete The Code. This is the second alternate reality gam
 
 [Phase2 repo](https://phase2.completethecode.com)
 
-[Password Checker.](https://password.completethecode.com)
+[Guess a password or two](password.completethecode.com)
 
-[Website Repo](https://github.com/Complete-the-Code/landing-page)
+~~Website Repo~~  currently in the process of moving systems over to a markdown based soultion, check back later.
 
 ---
 
@@ -20,9 +20,11 @@ Hello and welcome to Complete The Code. This is the second alternate reality gam
 
 The website [https://completethecodetwo.cards/](https://completethecodetwo.cards/) was discovered on May, 26 2021 as part of phase I.
 
-Thanks to @Vcubed in the dbrand Discord they have set up a  [Google Sheets](https://docs.google.com/spreadsheets/d/1ubfE2XXKmXK1Uws72nwHLYBd_mEdxlCOOoOuhlWRCD0/edit)  using a Google Apps Script to track and validate our inputs, but please, don’t shit inside it.
+@zeveryx created a [site](https://ctc2.zevaryx.com) that logs guesses. It’s the same database that [J.A.R.V.I.S.](https://git.zevaryx.com/stark-industries/j.a.r.v.i.s.) uses, so guesses do carry over. @Vcubed has also made a google sheet if thats more your speed
 
-In addition to the @Vcubed Sheet, @zeveryx created a [site](https://ctc2.zevaryx.com) that logs guesses. It’s the same database that [J.A.R.V.I.S.](https://git.zevaryx.com/stark-industries/j.a.r.v.i.s.) uses, so guesses do carry over.
+The site may not accept any answers at this time, or it could accept multiple. it’s impossible to know.
+
+On 4/1/22 it is rumored that OG robot would making a grand return (to @tonystark’s wallet’s dismay) and we should hopefully get some more info on this day. Check back here for the latest, as this page is crowdsourced
 
 ## Information collected so far
 
