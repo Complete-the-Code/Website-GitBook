@@ -1,12 +1,14 @@
+---
+description: >-
+  This page shows the current status of phase 2 for the dbrand Complete the Code
+  2 challenge.
+---
+
 # Phase 2
 
-This page shows the current status of phase 2 for the dbrand Complete the Code 2 challenge.
-
-[Join the madness and complete the code](https://discord.gg/dbrand)
-
-## Current solve status
-
-Still **UNSOLVED** as of April 10, 2022
+{% hint style="warning" %}
+Still **UNSOLVED** as of April 21, 2022
+{% endhint %}
 
 The website [https://completethecodetwo.cards/](https://completethecodetwo.cards) was discovered on May 26, 2021 as part of phase I.
 

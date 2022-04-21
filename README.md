@@ -10,9 +10,9 @@ Hello and welcome to Complete The Code. This is the second alternate reality gam
 
 [Join The Discord](https://discord.gg/dbrand) - Help us solve shit
 
-Phase1 - More details on the first phase
+[Phase 1](phase-1.md) - More details on the first phase
 
-Phase2 - More details on the second phase
+[Phase 2](phase-2.md) - More details on the second phase
 
 [Password checker](https://ctc2.zevaryx.com) - Guess a few passwords, and see the previous guesses
 

@@ -1,8 +1,8 @@
 # Phase 1
 
-## Current solve status
-
-**Solved**
+{% hint style="success" %}
+**SOLVED** as of May 26, 2021
+{% endhint %}
 
 As of May 17, 2021, dbrand has "confirmed" that all 23 cards have been acquired, you can see the message in the pinned section of the CTC2 discord channel or by clicking [here](https://discord.com/channels/520021794380447745/832309320934621234/843974368287653939). Additionally they have confirmed that we have everything needed, to solve this challenge.
 
