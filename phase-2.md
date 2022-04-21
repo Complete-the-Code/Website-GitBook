@@ -16,7 +16,7 @@ The website [https://completethecodetwo.cards/](https://completethecodetwo.cards
 
 The site may not accept any answers at this time, or it could accept multiple. it’s impossible to know.
 
-~~On 4/1/22 it is rumored that OG robot would making a grand return (R.I.P. Tony’s Wallet) and we should hopefully get some more info on this day.~~ **Update:** Nothing CTC2 related appears to be included with the DIY drops
+~~On 4/1/22 it is rumored that OG robot would making a grand return (R.I.P. Tony’s Wallet) and we should hopefully get some more info on this day.~~ **Update:** Nothing CTC2 related appears to be included with the DIY drop.
 
 ![website.png](https://github.com/Complete-the-Code/ctc2-phase-2/raw/master/website.png)
 
