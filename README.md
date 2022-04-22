@@ -1,8 +1,8 @@
-# Complete The Code
+# Complete The Code 2
 
 ![abstract art in dbrand color scheme](https://cdn.cpixl.com/img/db/ctc/db-ctc-header-art-01-comp.png)
 
-## Complete The Code
+## Complete The Code 2
 
 Hello and welcome to Complete The Code. This is the second alternate reality game (ARG) that the robots of dbrand, a skin manufacturer, have put on. We know of two phases of CTC2 so far. We have solved phase 1 and phase 2 is “initializing”. This site serves as place where we can collect all the info. It is publicly editable, so feel free to make a PR.&#x20;
 
