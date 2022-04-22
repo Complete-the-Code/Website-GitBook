@@ -17,7 +17,7 @@ Front of card
 Using the Zodiac Z340 Cipher the back text decrypts to `POSTANDSEARCHONTWITTER`. This is the same on every card. On the front of the card there is a singular Zodiac Killer Symbol. These can vary and we were looking for such symbols!
 
 {% hint style="info" %}
-Located on the bags the masks shipped with there was also a single symbol with a Robot Camo backing. This didn't have anything to do with phase 1 and was just to denote the size of mask being shipped
+Located on the front of the mask bags there was also a single pigpen symbol with a Robot Camo backing to denote the size of mask. There is also pigpen text on the back of the bags, which tells you how to wash the mask. This didn't have anything to do with phase 1.
 {% endhint %}
 
 We have a bunch of dipshits on Discord that have been trying to figure out what exactly the backs of the cards are supposed to mean.
