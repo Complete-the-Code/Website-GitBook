@@ -20,7 +20,7 @@ Located on the front of the mask bags there was also a single pigpen symbol with
 
 We have a bunch of dipshits on Discord that have been trying to figure out what exactly the backs of the cards are supposed to mean.
 
-~~If you have a symbol please post the image in the~~ [~~Discord~~](https://discord.gg/dbrand) ~~or~~ [~~Subreddit~~](https://www.reddit.com/r/dbrand)~~!, additionally you can post it on Twitter using~~ [~~#CTC2~~](https://twitter.com/hashtag/CTC2)~~.~~ **UPDATE**: we have all the symbols and no longer need people to follow these steps
+~~If you have a symbol please post the image in the~~ [~~Discord~~](https://discord.gg/dbrand) ~~or~~ [~~Subreddit~~](https://www.reddit.com/r/dbrand)~~!, additionally you can post it on Twitter using~~ [~~#CTC2~~](https://twitter.com/hashtag/CTC2). **UPDATE**: we have all the symbols and no longer need people to follow these steps
 
 Cards that have been collected so far can be seen [here](https://github.com/Complete-the-Code/ctc2-phase-1/blob/master/acquiredSymbols).
 
