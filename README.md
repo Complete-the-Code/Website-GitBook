@@ -16,6 +16,6 @@ Hello and welcome to Complete The Code. This is the second alternate reality gam
 
 [Password checker](https://ctc2.zevaryx.com) - Guess a few passwords, and see the previous guesses
 
-[Website Repo](https://github.com/SideMatter/completethecode) - Something doesn’t work or what to change something?
+[Website Repo](https://github.com/Complete-the-Code/Website-GitBook) - Something doesn’t work or what to change something?
 
 ###

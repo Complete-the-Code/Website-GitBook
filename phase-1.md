@@ -8,11 +8,9 @@ On April 1, 2021, dbrand started selling face masks again. You were able to add 
 
 Once the face masks started getting delivered after they shipped on April 12, 2021, they included cards that look like the following
 
-{% embed url="https://cdn.discordapp.com/attachments/832309320934621234/966833409873834074/EDF4196A-160D-4E96-AC7F-0EBCD0253225.jpg" %}
-Front of card
+{% embed url="https://cdn.discordapp.com/attachments/832309320934621234/967057104093450270/unknown.png" %}
+Front and Back of the cards
 {% endembed %}
-
-{% embed url="https://media.discordapp.net/attachments/832309320934621234/966833485467750490/44FCE56E-47D6-44BA-B44E-EDD5C64FD013.jpg?height=1139&width=854" %}
 
 Using the Zodiac Z340 Cipher the back text decrypts to `POSTANDSEARCHONTWITTER`. This is the same on every card. On the front of the card there is a singular Zodiac Killer Symbol. These can vary and we were looking for such symbols!
 
