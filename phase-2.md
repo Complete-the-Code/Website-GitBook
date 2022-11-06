@@ -7,8 +7,14 @@ description: >-
 # Phase 2
 
 {% hint style="warning" %}
-Still **UNSOLVED** as of August 9, 2022, 440 days since the ARG started.
+Still **UNSOLVED** as of November 6.
 {% endhint %}
+
+On November 6 at 11:38AM MST Robot 081 posted in the dbrand discord 10 lines of 20 characters. The message can be seen below
+
+<figure><img src=".gitbook/assets/Screenshot 2022-11-06 at 12.15.43 PM.png" alt=""><figcaption><p>Message sent from robot 081</p></figcaption></figure>
+
+We think that this is a cipher of some sorts and we need help decoding it.
 
 The website [https://completethecodetwo.cards/](https://completethecodetwo.cards) was discovered on May 26, 2021 as part of phase I.
 
