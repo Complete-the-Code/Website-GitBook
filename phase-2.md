@@ -7,7 +7,7 @@ description: >-
 # Phase 2
 
 {% hint style="warning" %}
-Still **UNSOLVED** as of November 6.
+Still **UNSOLVED** as of November 26th.
 {% endhint %}
 
 On November 6 at 6:38PM UTC (send all complaints about the time zone to [@CorruptedPixl](https://twitter.com/CorruptedPixl) on twitter)  Robot 081 posted in the dbrand discord 10 lines of 20 characters. The message can be seen below
