@@ -10,7 +10,7 @@ description: >-
 Still **UNSOLVED** as of November 6.
 {% endhint %}
 
-On November 6 at 11:38AM MST Robot 081 posted in the dbrand discord 10 lines of 20 characters. The message can be seen below
+On November 6 at 6:38PM UTC (send all complaints about the time zone to @CorruptedPixl on twitter)  Robot 081 posted in the dbrand discord 10 lines of 20 characters. The message can be seen below
 
 <figure><img src=".gitbook/assets/Screenshot 2022-11-06 at 12.15.43 PM.png" alt=""><figcaption><p>Message sent from robot 081</p></figcaption></figure>
 
